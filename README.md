@@ -14,7 +14,7 @@ g++ src/*.cpp -I header -o program
 
 
 ## Files 
-`headers` consist of .h files used in the programme
-`old` old header files for Basket.h and FruitShop.h that uses STL vectors
-`src` main file and implementation codes of .h files
+1. `headers` consist of .h files used in the programme
+2. `old` old header files for Basket.h and FruitShop.h that uses STL vectors
+3. `src` main file and implementation codes of .h files
 
